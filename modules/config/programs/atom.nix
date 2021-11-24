@@ -27,7 +27,7 @@ in
 
   ###### implementation
 
-  config = mkIf cfg.enable {
+  config = mkIf false {
 
     custom.programs.atom.packages = [
       pkgs.python3Packages.sqlparse

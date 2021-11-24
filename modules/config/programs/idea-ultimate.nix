@@ -27,7 +27,7 @@ in
 
   ###### implementation
 
-  config = mkIf cfg.enable {
+  config = mkIf false {
 
     custom = {
       misc.sdks = {
