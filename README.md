@@ -1,3 +1,7 @@
+# !DEPRECATED! See [nix-config](https://github.com/Gerschtli/nix-config)
+
+I am transitioning to a flakes-only setup within a mono-repo containing all configs.
+
 # Home Manager configurations
 
 This repository manages all my [home manager](https://github.com/rycee/home-manager) configuration files and the
